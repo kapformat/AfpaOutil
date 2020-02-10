@@ -1,0 +1,4 @@
+https://o7planning.org/fr/10327/le-tutoriel-de-programmation-sql-server-transact-sql
+
+
+https://expert-only.com/tsql/creer-procedure-stockee-sql-server-parametres/
